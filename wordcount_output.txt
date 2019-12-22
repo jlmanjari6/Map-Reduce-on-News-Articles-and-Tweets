@@ -1,0 +1,6 @@
+(183, u'oil')
+(63, u'economy')
+(14, u'agriculture')
+(12, u'vehicle')
+(1, u'expensive')
+(1, u'population')
